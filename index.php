@@ -100,9 +100,9 @@
                             </div>
                             <div class="col-md-9 services-text">
                                 <h4 class="heading-mini">Reparación</h4>
-                               <p>
+                                <p>
                                    Reparación en general de distintas capacidades y modelos de equipos. 
-                               </p>
+                                </p>
                             </div>
                         </div><!--services list-->
                         <div class="space-30"></div>

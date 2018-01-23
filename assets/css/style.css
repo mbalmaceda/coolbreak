@@ -1901,7 +1901,7 @@ a.carousel-control i {
 /*********************header option 2***************************/
 .navbar-inverse {
   background-color: rgba(255, 255, 255, 1);
-  height:105px;
+  height:120px;
   border: none;
   -webkit-border-radius: 0px;
   -moz-border-radius: 0px;
@@ -1911,7 +1911,7 @@ a.carousel-control i {
   -moz-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.15);
   -ms-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.15);
   box-shadow: 0 1px 5px rgba(0, 0, 0, 0.15);
-  padding: 10px 0;
+  padding: 15px 0;
   width: 100%;
   -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out; 
  -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
