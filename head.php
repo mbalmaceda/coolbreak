@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">   
         <title>Cool Break</title>
-        <meta name="description" content="HTML5 &amp; CSS3">
+        <meta name="description" content="Sitio Web - Climatizacion Cool Break">
         <meta name="keywords" content="Climatizacion, Clima, Mantencion, reparacion, proyectos e instalacion de sistemas de calefaccion central, calderas, calefaccion central, redes humedas"> 
 
         <!--bootstrap3 css-->

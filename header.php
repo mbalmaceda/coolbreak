@@ -1,20 +1,4 @@
         <header class="header-main">
-              <div class="top-bar">
-
-                <div class="container">
-                    <ul class="info list-inline pull-left hidden-xs">
-                        <li>
-                            <a href="contacto@climatizacioncoolbreak.cl" class="hover-color"><i class="ion-ios-email-outline"></i> contacto@climatizacioncoolbreak.cl</a>
-                        </li>
-                        
-                    </ul>  
-                    <div class="pull-right">
-                        <ul class="info list-inline hidden-xs">
-                           <li><i class="ion-iphone"></i> +56 9 54878117</li>
-                        </ul>
-                    </div>
-                </div><!--container end-->
-            </div><!--topbar end-->
             <div class="navbar navbar-inverse sticky-nav sticky" role="navigation">
                 <div class="container">
                     <div class="navbar-header">

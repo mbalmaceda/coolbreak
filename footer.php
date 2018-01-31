@@ -21,31 +21,9 @@
                     <div class="col-md-4">
                         <div class="footer-col">
                             <h3>Contacto</h3>
-                            <?php if ($pageName=='ventas') { ?>
-                                <p><i class="ion-person"></i> Juan Rojas Loyola</p>
-                                <p><i class="ion-iphone"></i><a href="tel:+56954878117"> +56 9 54878117</a></p>
-                                <p><i class="ion-ios-home-outline"></i><a href="tel:0232160313 "> 023 2160313 </a></p>
-                                <p><i class="ion-email"></i><a href="mailto:jrojas@climatizacioncoolbreak.cl"> jrojas@climatizacioncoolbreak.cl</a></p>
-                            <?php } elseif ($pageName=='contacto') { ?>
-                                <p><i class="ion-person"></i> Victor Troncoso Rios</p>
-                                <p><i class="ion-iphone"></i><a href="tel:+56965030568"> +56 9 65030568</a></p>
-                                <p><i class="ion-ios-home-outline"></i><a href="tel:0232160313 "> 023 2160313 </a></p>
-                                <p><i class="ion-email"></i><a href="mailto:vtroncoso@climatizacioncoolbreak.cl"> vtroncoso@climatizacioncoolbreak.cl</a></p>
-                            <?php } elseif ($pageName=='transporte') { ?>
-                                <p><i class="ion-person"></i> Claudio Eyzaguirre Orellana</p>
-                                <p><i class="ion-iphone"></i><a href="tel:+56959340480"> +56 9 59340480</a></p>
-                                <p><i class="ion-ios-home-outline"></i><a href="tel:0232160313 "> 023 2160313 </a></p>
-                                <p><i class="ion-email"></i><a href="mailto:ceyzaguirre@climatizacioncoolbreak.cl"> ceyzaguirre@climatizacioncoolbreak.cl</a></p>
-                            <?php } elseif ($pageName=='proyectos') { ?>
-                                <p><i class="ion-person"></i> Cristian Jeldres Lagos</p>
-                                <p><i class="ion-iphone"></i><a href="tel:+56959340480"> +56 9 59340480</a></p>
-                                <p><i class="ion-ios-home-outline"></i><a href="tel:0232160313 "> 023 2160313 </a></p>
-                                <p><i class="ion-email"></i><a href="mailto:cjeldres@climatizacioncoolbreak.cl"> cjeldres@climatizacioncoolbreak.cl</a></p>
-                            <?php } else { ?>
-                                <p><i class="ion-iphone"></i><a href="tel:+56954878117"> +56 9 54878117</a></p>
-                                <p><i class="ion-iphone"></i><a href="tel:+56965030568"> +56 9 65030568</a></p>
+                            <p><i class="ion-iphone"></i><a href="tel:+56954878117"> +56 9 99752368</a></p>
+                                <p><i class="ion-iphone"></i><a href="tel:+56965030568"> +56 9 86481271</a></p>
                                 <p><i class="ion-email"></i> <a href="mailto:contacto@climatizacioncoolbreak.cl">contacto@climatizacioncoolbreak.cl</a></p>
-                            <?php } ?>
                                 <p><i class="ion-home"></i> Pasaje Milonga #1819, Maipú</p>
                         </div>
                     </div><!--get in touch col end-->
@@ -54,7 +32,6 @@
                     <div class="col-md-12 text-center footer-bottom">
                         <a href="index.php"> <img src="assets/img/logo/coolbreak-bot.png" width="130px" alt=""></a>
                         <div class="space-20"></div>
-                        <span>&copy;2015. Todos los derechos reservados. Desarrollado por <a href="http://www.itdesign.cl">It&amp;Design</a></span>
                     </div>
                 </div><!--footer copyright row end-->
             </div><!--container-->
