@@ -51,28 +51,22 @@
                     <h3 class="subtitle">Pioneros en Climatización</h3>
                 </div>
                 <div class="space-30"></div>
-                <div class="col-md-3 col-sm-6">
+                <div class="col-md-4">
                     <div class="services-box wow animated fadeInLeft" data-wow-delay="0.3s">
                         <i class="ion-ios-snowy"></i>
                         <h1>Climatización</h1>
                     </div>
                 </div><!--services box-->
-                <div class="col-md-3 col-sm-6">
+                <div class="col-md-4">
                     <div class="services-box wow animated fadeInLeft" data-wow-delay="0.5s">
                         <i class="ion-thermometer"></i>
                         <h1>Calefacción</h1>
                     </div>
                 </div><!--services box-->
-                <div class="col-md-3  col-sm-6">
+                <div class="col-md-34">
                     <div class="services-box wow animated fadeInLeft" data-wow-delay="0.7s">
                         <i class="ion-flash"></i>
                         <h1>Electricidad</h1>
-                    </div>
-                </div><!--services box-->
-                <div class="col-md-3  col-sm-6">
-                    <div class="services-box wow animated fadeInLeft" data-wow-delay="0.9s">
-                        <i class="ion-android-bus"></i>
-                        <h1>Transporte y Logísticas</h1>
                     </div>
                 </div><!--services box-->
             </div><!--row end-->

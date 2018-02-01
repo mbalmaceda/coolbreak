@@ -22,18 +22,17 @@
                                 <ul class="dropdown-menu">
                                     <li><a href="climatizacion.php">Climatización</a></li>
                                     <li><a href="calefaccion.php">Calefacción</a></li>
-                                    <li><a href="electricidad.php">Electricidad</a></li>
-                                    <li><a href="transporte_logistica.php">Transporte y Logistica</a></li>                            
+                                    <li><a href="electricidad.php">Electricidad</a></li>                       
                                 </ul>
                             </li>
-                            <li <?php if ($pageName=='ventas') {echo 'class="active"';} ?> >
-                                <a href="ventas.php">Ventas</a>
+                            <li <?php if ($pageName=='productos') {echo 'class="active"';} ?> >
+                                <a href="productos.php">Productos</a>
                             </li>
                             <li <?php if ($pageName=='proyectos') {echo 'class="active"';} ?>>
                                 <a href="proyectos.php">Proyectos</a>
                             </li>
                             <li <?php if ($pageName=='contacto') {echo 'class="active"';} ?> >
-                                <a href="contacto.php" >Cotización</a>
+                                <a href="contacto.php" >Contacto</a>
                             </li>
                         </ul>
                     </div><!--/.nav-collapse -->

@@ -1,7 +1,7 @@
  <div id="footer-option">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-4 margin-btm-20">
+                    <div class="col-md-4 col-sm-12 margin-btm-20">
                         <div class="footer-col">
                             <h3>CoolBreak</h3>
                            <p class="justificado">
@@ -10,15 +10,13 @@
                         </div>
                         <div class="space-20"></div>
                     </div><!--col-4 end-->
-                    <div class="col-md-4 margin-btm-20">
+                    <div class="col-md-4 margin-btm-20 col-sm-12">
                         <div class="footer-col">
-                            <h3>Siguenos</h3>
-                            <ul class=" list-inline social-btn">
-                                <li><a href="https://www.facebook.com/" target="_blank"><i class="ion-social-facebook" data-toggle="tooltip" data-placement="top" title="" data-original-title="Siguenos en Facebook"></i></a></li>
-                            </ul>
+                                                <div class="space-20"></div>
+                            <a href="index.php"> <img src="assets/img/logo/coolbreak-bot.png" width="130px" alt=""></a>
                         </div>
                     </div><!--latest post col end-->
-                    <div class="col-md-4">
+                    <div class="col-md-4 col-sm-12">
                         <div class="footer-col">
                             <h3>Contacto</h3>
                             <p><i class="ion-iphone"></i><a href="tel:+56954878117"> +56 9 99752368</a></p>
@@ -28,12 +26,6 @@
                         </div>
                     </div><!--get in touch col end-->
                 </div><!--footer main row end-->  
-                <div class="row">
-                    <div class="col-md-12 text-center footer-bottom">
-                        <a href="index.php"> <img src="assets/img/logo/coolbreak-bot.png" width="130px" alt=""></a>
-                        <div class="space-20"></div>
-                    </div>
-                </div><!--footer copyright row end-->
             </div><!--container-->
         </div><!--footer main end-->
         <!--scripts-->
