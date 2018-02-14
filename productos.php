@@ -20,13 +20,6 @@
                             <li class="filter" data-filter="calefaccion">Calefacción</li>
                             <li class="filter" data-filter="electricidad">Electricidad</li>
                         </ul>
-                    </div><hr>
-                    <div class="clearfix"></div>
-                    <div class="sidebar-box">
-                        <h4>Encuentra nuestros productos en</h4>
-                        <ul class=" list-inline social-btn">
-                            <li><a href="https://www.facebook.com/" target="_blank"><i class="ion-social-facebook" data-toggle="tooltip" data-placement="top" title="" data-original-title="Siguenos en Facebook"></i></a></li>
-                        </ul>
                     </div>
                 </div><!--sideabr blog end -->
                 <div class="col-md-8">

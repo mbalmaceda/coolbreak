@@ -63,7 +63,7 @@
                         <h1>Calefacción</h1>
                     </div>
                 </div><!--services box-->
-                <div class="col-md-34">
+                <div class="col-md-4">
                     <div class="services-box wow animated fadeInLeft" data-wow-delay="0.7s">
                         <i class="ion-flash"></i>
                         <h1>Electricidad</h1>
@@ -75,7 +75,7 @@
         <section id="content-region-1" class="padding-40">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-7 features wow animated fadeInLeft" data-wow-delay="0.3s">
+                    <div class="col-md-7 col-sm-12 features wow animated fadeInLeft servicios-index" data-wow-delay="0.3s">
                         <h3>Servicios de Climatización</h3>
                         <div class="space-30"></div>
                         <div class="row">
@@ -112,8 +112,8 @@
                             </div>
                         </div><!--services list-->
                     </div>
-                    <div class="col-md-5 wow animated fadeInRight" data-wow-delay="0.5s">
-                        <img src="assets/img/prueba-2.png" class="img-responsive" alt="">
+                    <div class="col-md-5 wow animated fadeInRight servicios-index" data-wow-delay="0.5s">
+                        <img src="assets/img/prueba-2.png" class="img-responsive img-rounded" alt="">
                     </div>
                 </div>
                 <div class="space-30"></div>

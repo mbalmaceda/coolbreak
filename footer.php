@@ -12,8 +12,10 @@
                     </div><!--col-4 end-->
                     <div class="col-md-4 margin-btm-20 col-sm-12">
                         <div class="footer-col">
-                                                <div class="space-20"></div>
-                            <a href="index.php"> <img src="assets/img/logo/coolbreak-bot.png" width="130px" alt=""></a>
+                            <div class="space-20"></div>
+                            <a href="index.php">
+                                <img src="assets/img/logo/coolbreak-bot.png" alt="Logo-CoolBreak">
+                            </a>
                         </div>
                     </div><!--latest post col end-->
                     <div class="col-md-4 col-sm-12">
