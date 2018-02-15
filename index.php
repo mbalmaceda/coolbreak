@@ -4,9 +4,7 @@
 
 <?php include_once("header.php"); ?>
         <!--bootstrap carousel slider start-->
-        <!-- Carousel
-        ================================================== -->
-
+        <!-- Carousel -->
         <div class="home-slider">
             <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
               <!-- Indicators -->

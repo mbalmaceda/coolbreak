@@ -18,15 +18,12 @@
                         <li class="filter" data-filter="climatizacion">Climatización</li>
                         <li class="filter" data-filter="calefaccion">Calefacción</li>
                         <li class="filter" data-filter="electricidad">Electricidad</li>
-                        <li class="filter" data-filter="transporte">Transporte</li>
-                        <li class="filter" data-filter="logistica">Logística</li>
                     </ul>
                     <div id="grid" class="row">
-
                         <!--La travesia del viajero del alba-->
                         <div class="mix climatizacion col-md-4 col-sm-6 margin-btm-40">
                             <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
+                                <div class="portfolio-thumnail">
                                     <a class="img-responsive" href="assets/img/proyectos/climatizacion/canalizacion-de-tuberias-de-refrigeracion.png" rel="prettyPhoto" title="">
                                         <img src="assets/img/proyectos/climatizacion/canalizacion-de-tuberias-de-refrigeracion.png" class="img-responsive" alt="">
                                     </a>
@@ -39,7 +36,7 @@
                         </div>
                         <div class="mix climatizacion col-md-4 col-sm-6 margin-btm-40">
                             <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
+                                <div class="portfolio-thumnail">
                                     <a class="img-responsive" href="assets/img/proyectos/climatizacion/carga-y-reparaciones-de-fugas-chiller-variados.png" rel="prettyPhoto" title="">
                                         <img src="assets/img/proyectos/climatizacion/carga-y-reparaciones-de-fugas-chiller-variados.png" class="img-responsive" alt="">
                                     </a>
@@ -52,7 +49,7 @@
                         </div>
                         <div class="mix calefaccion col-md-4 col-sm-6 margin-btm-40">
                             <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
+                                <div class="portfolio-thumnail">
                                     <a class="img-responsive" href="assets/img/proyectos/climatizacion/deteccion-y-reparacion-de-conexiones-deficientes.png" rel="prettyPhoto" title="">
                                         <img src="assets/img/proyectos/climatizacion/deteccion-y-reparacion-de-conexiones-deficientes.png" class="img-responsive" alt="">
                                     </a>
@@ -66,7 +63,7 @@
                         <!--1-->
                         <div class="mix climatizacion col-md-4 col-sm-6 margin-btm-40">
                             <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
+                                <div class="portfolio-thumnail">
                                     <a class="img-responsive" href="assets/img/proyectos/climatizacion/ducteria-en-obras.png" rel="prettyPhoto" title="">
                                         <img src="assets/img/proyectos/climatizacion/ducteria-en-obras.png" class="img-responsive" alt="">
                                     </a>
@@ -79,7 +76,7 @@
                         </div>
                         <div class="mix climatizacion col-md-4 col-sm-6 margin-btm-40">
                             <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
+                                <div class="portfolio-thumnail">
                                     <a class="img-responsive" href="assets/img/proyectos/climatizacion/ducteria-hospitalaria-escuadra.png" rel="prettyPhoto" title="">
                                         <img src="assets/img/proyectos/climatizacion/ducteria-hospitalaria-escuadra.png" class="img-responsive" alt="">
                                     </a>
@@ -92,7 +89,7 @@
                         </div>
                         <div class="mix climatizacion col-md-4 col-sm-6 margin-btm-40">
                             <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
+                                <div class="portfolio-thumnail">
                                     <a class="img-responsive" href="assets/img/proyectos/climatizacion/evaporadores-vrv.png" rel="prettyPhoto" title="">
                                         <img src="assets/img/proyectos/climatizacion/evaporadores-vrv.png" class="img-responsive" alt="">
                                     </a>
@@ -106,7 +103,7 @@
                         <!--2-->
                         <div class="mix calefaccion col-md-4 col-sm-6 margin-btm-40">
                             <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
+                                <div class="portfolio-thumnail">
                                     <a class="img-responsive" href="assets/img/proyectos/climatizacion/mantencion-a-bombas-de-calefaccion.png" rel="prettyPhoto" title="">
                                         <img src="assets/img/proyectos/climatizacion/mantencion-a-bombas-de-calefaccion.png" class="img-responsive" alt="">
                                     </a>
@@ -119,7 +116,7 @@
                         </div>
                         <div class="mix climatizacion col-md-4 col-sm-6 margin-btm-40">
                             <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
+                                <div class="portfolio-thumnail">
                                     <a class="img-responsive" href="assets/img/proyectos/climatizacion/instalacion-de-condensadoras-a-piso.png" rel="prettyPhoto" title="">
                                         <img src="assets/img/proyectos/climatizacion/instalacion-de-condensadoras-a-piso.png" class="img-responsive" alt="">
                                     </a>
@@ -132,7 +129,7 @@
                         </div>
                         <div class="mix climatizacion col-md-4 col-sm-6 margin-btm-40">
                             <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
+                                <div class="portfolio-thumnail">
                                     <a class="img-responsive" href="assets/img/proyectos/climatizacion/instalacion-de-condensadoras-a-techo.png" rel="prettyPhoto" title="">
                                         <img src="assets/img/proyectos/climatizacion/instalacion-de-condensadoras-a-techo.png" class="img-responsive" alt="">
                                     </a>
@@ -146,7 +143,7 @@
                         <!--3-->
                         <div class="mix calefaccion col-md-4 col-sm-6 margin-btm-40">
                             <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
+                                <div class="portfolio-thumnail">
                                     <a class="img-responsive" href="assets/img/proyectos/climatizacion/mantencion-a-quemadores-de-gas.png" rel="prettyPhoto" title="">
                                         <img src="assets/img/proyectos/climatizacion/mantencion-a-quemadores-de-gas.png" class="img-responsive" alt="">
                                     </a>
@@ -159,7 +156,7 @@
                         </div>
                         <div class="mix climatizacion col-md-4 col-sm-6 margin-btm-40">
                             <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
+                                <div class="portfolio-thumnail">
                                     <a class="img-responsive" href="assets/img/proyectos/climatizacion/instalacion-de-ducteria.png" rel="prettyPhoto" title="">
                                         <img src="assets/img/proyectos/climatizacion/instalacion-de-ducteria.png" class="img-responsive" alt="">
                                     </a>
@@ -172,7 +169,7 @@
                         </div>
                         <div class="mix climatizacion col-md-4 col-sm-6 margin-btm-40">
                             <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
+                                <div class="portfolio-thumnail">
                                     <a class="img-responsive" href="assets/img/proyectos/climatizacion/instalacion-de-extractores-de-aire.png" rel="prettyPhoto" title="">
                                         <img src="assets/img/proyectos/climatizacion/instalacion-de-extractores-de-aire.png" class="img-responsive" alt="">
                                     </a>
@@ -186,7 +183,7 @@
                         <!--4-->
                         <div class="mix calefaccion col-md-4 col-sm-6 margin-btm-40">
                             <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
+                                <div class="portfolio-thumnail">
                                     <a class="img-responsive" href="assets/img/proyectos/climatizacion/instalacion-de-intercambiadores-de-calor.png" rel="prettyPhoto" title="">
                                         <img src="assets/img/proyectos/climatizacion/instalacion-de-intercambiadores-de-calor.png" class="img-responsive" alt="">
                                     </a>
@@ -199,7 +196,7 @@
                         </div>
                         <div class="mix climatizacion col-md-4 col-sm-6 margin-btm-40">
                             <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
+                                <div class="portfolio-thumnail">
                                     <a class="img-responsive" href="assets/img/proyectos/climatizacion/instalacion-y-reparacion-de-compresores-semihermeticos.png" rel="prettyPhoto" title="">
                                         <img src="assets/img/proyectos/climatizacion/instalacion-y-reparacion-de-compresores-semihermeticos.png" class="img-responsive" alt="">
                                     </a>
@@ -212,7 +209,7 @@
                         </div>
                         <div class="mix climatizacion col-md-4 col-sm-6 margin-btm-40">
                             <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
+                                <div class="portfolio-thumnail">
                                     <a class="img-responsive" href="assets/img/proyectos/climatizacion/instalacion-de-chiller-modulares-y-compactos.png" rel="prettyPhoto" title="">
                                         <img src="assets/img/proyectos/climatizacion/instalacion-de-chiller-modulares-y-compactos.png" class="img-responsive" alt="">
                                     </a>
@@ -226,7 +223,7 @@
                         <!--5-->
                         <div class="mix calefaccion col-md-4 col-sm-6 margin-btm-40">
                             <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
+                                <div class="portfolio-thumnail">
                                     <a class="img-responsive" href="assets/img/proyectos/climatizacion/mantenciones.png" rel="prettyPhoto" title="">
                                         <img src="assets/img/proyectos/climatizacion/mantenciones.png" class="img-responsive" alt="">
                                     </a>
@@ -239,7 +236,7 @@
                         </div>
                         <div class="mix calefaccion col-md-4 col-sm-6 margin-btm-40">
                             <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
+                                <div class="portfolio-thumnail">
                                     <a class="img-responsive" href="assets/img/proyectos/climatizacion/mantencion-boilers-agua-sanitaria.png" rel="prettyPhoto" title="">
                                         <img src="assets/img/proyectos/climatizacion/mantencion-boilers-agua-sanitaria.png" class="img-responsive" alt="">
                                     </a>
@@ -252,7 +249,7 @@
                         </div>
                         <div class="mix calefaccion col-md-4 col-sm-6 margin-btm-40">
                             <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
+                                <div class="portfolio-thumnail">
                                     <a class="img-responsive" href="assets/img/proyectos/climatizacion/mantencion-bombas-aguas-sanitaria.png" rel="prettyPhoto" title="">
                                         <img src="assets/img/proyectos/climatizacion/mantencion-bombas-aguas-sanitaria.png" class="img-responsive" alt="">
                                     </a>
@@ -266,7 +263,7 @@
                         <!--6-->
                         <div class="mix climatizacion col-md-4 col-sm-6 margin-btm-40">
                             <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
+                                <div class="portfolio-thumnail">
                                     <a class="img-responsive" href="assets/img/proyectos/climatizacion/mantencion-y-reparacion-de-torres-de-enfriamiento.png" rel="prettyPhoto" title="">
                                         <img src="assets/img/proyectos/climatizacion/mantencion-y-reparacion-de-torres-de-enfriamiento.png" class="img-responsive" alt="">
                                     </a>
@@ -279,7 +276,7 @@
                         </div>
                         <div class="mix climatizacion col-md-4 col-sm-6 margin-btm-40">
                             <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
+                                <div class="portfolio-thumnail">
                                     <a class="img-responsive" href="assets/img/proyectos/climatizacion/mantenciones-mensuales,bimensuales,trimestral.png" rel="prettyPhoto" title="">
                                         <img src="assets/img/proyectos/climatizacion/mantenciones-mensuales,bimensuales,trimestral.png" class="img-responsive" alt="">
                                     </a>
@@ -292,7 +289,7 @@
                         </div>
                         <div class="mix climatizacion col-md-4 col-sm-6 margin-btm-40">
                             <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
+                                <div class="portfolio-thumnail">
                                     <a class="img-responsive" href="assets/img/proyectos/climatizacion/mantenciones-split-muro-casas-y-empresas.png" rel="prettyPhoto" title="">
                                         <img src="assets/img/proyectos/climatizacion/mantenciones-split-muro-casas-y-empresas.png" class="img-responsive" alt="">
                                     </a>
@@ -306,7 +303,7 @@
                         <!--7-->
                         <div class="mix calefaccion col-md-4 col-sm-6 margin-btm-40">
                             <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
+                                <div class="portfolio-thumnail">
                                     <a class="img-responsive" href="assets/img/proyectos/climatizacion/mantencion-e-instalacion-de-radiadores.png" rel="prettyPhoto" title="">
                                         <img src="assets/img/proyectos/climatizacion/mantencion-e-instalacion-de-radiadores.png" class="img-responsive" alt="">
                                     </a>
@@ -319,7 +316,7 @@
                         </div>
                         <div class="mix climatizacion col-md-4 col-sm-6 margin-btm-40">
                             <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
+                                <div class="portfolio-thumnail">
                                     <a class="img-responsive" href="assets/img/proyectos/climatizacion/toma-de-cargas-de-refrigerantes.png" rel="prettyPhoto" title="">
                                         <img src="assets/img/proyectos/climatizacion/toma-de-cargas-de-refrigerantes.png" class="img-responsive" alt="">
                                     </a>
@@ -332,7 +329,7 @@
                         </div>
                         <div class="mix calefaccion col-md-4 col-sm-6 margin-btm-40">
                             <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
+                                <div class="portfolio-thumnail">
                                     <a class="img-responsive" href="assets/img/proyectos/climatizacion/reparacion-de-calderas.png" rel="prettyPhoto" title="">
                                         <img src="assets/img/proyectos/climatizacion/reparacion-de-calderas.png" class="img-responsive" alt="">
                                     </a>
@@ -346,7 +343,7 @@
                         <!--8-->
                         <div class="mix climatizacion col-md-4 col-sm-6 margin-btm-40">
                             <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
+                                <div class="portfolio-thumnail">
                                     <a class="img-responsive" href="assets/img/proyectos/climatizacion/instalacion-de-condensadoras-en-plataforma.png" rel="prettyPhoto" title="">
                                         <img src="assets/img/proyectos/climatizacion/instalacion-de-condensadoras-en-plataforma.png" class="img-responsive" alt="">
                                     </a>
@@ -359,7 +356,7 @@
                         </div>
                         <div class="mix climatizacion col-md-4 col-sm-6 margin-btm-40">
                             <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
+                                <div class="portfolio-thumnail">
                                     <a class="img-responsive" href="assets/img/proyectos/climatizacion/mantencion-de-unidades-condensadoras.png" rel="prettyPhoto" title="">
                                         <img src="assets/img/proyectos/climatizacion/mantencion-de-unidades-condensadoras.png" class="img-responsive" alt="">
                                     </a>
@@ -371,116 +368,6 @@
                             </div>
                         </div>
                         <!--La travesia del viajero del alba-->
-                        
-
-                        <!-- Transporte -->
-                        <div class="mix transporte col-md-4 col-sm-6 margin-btm-40">
-                            <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
-                                    <a class="img-responsive" href="assets/img/proyectos/transporte/transporte-1.png" rel="prettyPhoto" title="">
-                                        <img src="assets/img/proyectos/transporte/transporte-1.png" class="img-responsive" alt="">
-                                    </a>
-                                </div>
-                                <div class="portfolio-desc text-center">
-                                    <h4 class="portfolio-post-title">Descarga de contentedores</h4>
-                                    <span class="portfolio-post-cat">Transporte</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="mix transporte col-md-4 col-sm-6 margin-btm-40">
-                            <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
-                                    <a class="img-responsive" href="assets/img/proyectos/transporte/transporte-2.png" rel="prettyPhoto" title="">
-                                        <img src="assets/img/proyectos/transporte/transporte-2.png" class="img-responsive" alt="">
-                                    </a>
-                                </div>
-                                <div class="portfolio-desc text-center">
-                                    <h4 class="portfolio-post-title">Descarga de contentedores</h4>
-                                    <span class="portfolio-post-cat">Transporte</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="mix transporte col-md-4 col-sm-6 margin-btm-40">
-                            <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
-                                    <a class="img-responsive" href="assets/img/proyectos/transporte/transporte-3.png" rel="prettyPhoto" title="">
-                                        <img src="assets/img/proyectos/transporte/transporte-3.png" class="img-responsive" alt="">
-                                    </a>
-                                </div>
-                                <div class="portfolio-desc text-center">
-                                    <h4 class="portfolio-post-title">Descarga de contentedores</h4>
-                                    <span class="portfolio-post-cat">Transporte</span>
-                                </div>
-                            </div>
-                        </div>
-                        <!--Fin de Transporte-->
-                        <!--Inicio Logistica-->
-                        <div class="mix logistica col-md-4 col-sm-6 margin-btm-40">
-                            <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
-                                    <a class="img-responsive" href="assets/img/proyectos/logistica/logistica-1.png" rel="prettyPhoto" title="">
-                                        <img src="assets/img/proyectos/logistica/logistica-1.png" class="img-responsive" alt="">
-                                    </a>
-                                </div>
-                                <div class="portfolio-desc text-center">
-                                    <h4 class="portfolio-post-title">Operaciones Logísticas</h4>
-                                    <span class="portfolio-post-cat">Logística</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="mix logistica col-md-4 col-sm-6 margin-btm-40">
-                            <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
-                                    <a class="img-responsive" href="assets/img/proyectos/logistica/logistica-2.png" rel="prettyPhoto" title="">
-                                        <img src="assets/img/proyectos/logistica/logistica-2.png" class="img-responsive" alt="">
-                                    </a>
-                                </div>
-                                <div class="portfolio-desc text-center">
-                                    <h4 class="portfolio-post-title">Operaciones Logísticas</h4>
-                                    <span class="portfolio-post-cat">Logística</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="mix logistica col-md-4 col-sm-6 margin-btm-40">
-                            <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
-                                    <a class="img-responsive" href="assets/img/proyectos/logistica/logistica-3.png" rel="prettyPhoto" title="">
-                                        <img src="assets/img/proyectos/logistica/logistica-3.png" class="img-responsive" alt="">
-                                    </a>
-                                </div>
-                                <div class="portfolio-desc text-center">
-                                    <h4 class="portfolio-post-title">Operaciones Logísticas</h4>
-                                    <span class="portfolio-post-cat">Logística</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="mix logistica col-md-4 col-sm-6 margin-btm-40">
-                            <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
-                                    <a class="img-responsive" href="assets/img/proyectos/logistica/logistica-4.png" rel="prettyPhoto" title="">
-                                        <img src="assets/img/proyectos/logistica/logistica-4.png" class="img-responsive" alt="">
-                                    </a>
-                                </div>
-                                <div class="portfolio-desc text-center">
-                                    <h4 class="portfolio-post-title">Operaciones Logísticas</h4>
-                                    <span class="portfolio-post-cat">Logística</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="mix logistica col-md-4 col-sm-6 margin-btm-40">
-                            <div class="portfolio-sec">
-                                <div class="portfolio-thumnail">  
-                                    <a class="img-responsive" href="assets/img/proyectos/logistica/logistica-5.png" rel="prettyPhoto" title="">
-                                        <img src="assets/img/proyectos/logistica/logistica-5.png" class="img-responsive" alt="">
-                                    </a>
-                                </div>
-                                <div class="portfolio-desc text-center">
-                                    <h4 class="portfolio-post-title">Operaciones Logísticas</h4>
-                                    <span class="portfolio-post-cat">Logística</span>
-                                </div>
-                            </div>
-                        </div>
-                        <!--Fin Logistica-->
                     </div><!--grid-->
                 </div>
             </div><!--row-->
