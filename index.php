@@ -51,19 +51,19 @@
                     <h3 class="subtitle">Pioneros en Climatización</h3>
                 </div>
                 <div class="space-30"></div>
-                <div class="col-md-4">
+                <div class="col-md-4 col-xs-6">
                     <div class="services-box wow animated fadeInLeft" data-wow-delay="0.3s">
                         <i class="ion-ios-snowy"></i>
                         <h1>Climatización</h1>
                     </div>
                 </div><!--services box-->
-                <div class="col-md-4">
+                <div class="col-md-4 col-xs-6">
                     <div class="services-box wow animated fadeInLeft" data-wow-delay="0.5s">
                         <i class="ion-thermometer"></i>
                         <h1>Calefacción</h1>
                     </div>
                 </div><!--services box-->
-                <div class="col-md-4">
+                <div class="col-md-4 col-xs-12">
                     <div class="services-box wow animated fadeInLeft" data-wow-delay="0.7s">
                         <i class="ion-flash"></i>
                         <h1>Electricidad</h1>
@@ -95,7 +95,7 @@
                             <div class="col-md-9 services-text">
                                 <h4 class="heading-mini">Reparación</h4>
                                 <p>
-                                   Reparación en general de distintas capacidades y modelos de equipos. 
+                                   Reparación en general de distintas capacidades y modelos de equipos.
                                 </p>
                             </div>
                         </div><!--services list-->
@@ -107,7 +107,7 @@
                             <div class="col-md-9 services-text">
                                 <h4 class="heading-mini">Mantención</h4>
                                 <p>
-                                    Mantencion en general para las distintas capacidades y modelos de equipos 
+                                    Mantencion en general para las distintas capacidades y modelos de equipos
                                 </p>
                             </div>
                         </div><!--services list-->
