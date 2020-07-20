@@ -15,11 +15,11 @@
         <div class="container">
             <div class="col-md-5">
                 <h4 class="heading-mini">Cotiza tus productos o servicios</h4>
-                <p>Victor Troncoso Rios</p>
-                <p>Móvil: <a href="tel:+56965030568">+56 9 65030568</a></p>
-                <p>Fijo: <a href="tel:0232160313 "> 023 2160313 </a></p>
-                <p>Email: <a href="mailto:vtroncoso@climatizacioncoolbreak.cl">vtroncoso@climatizacioncoolbreak.cl</a></p>
-                <p>Pasaje Milonga #1819, Maipú</p>
+                <p>Móvil: <a href="tel:+56999752368">+56 9 9975 2368</a><br>
+                    <a href="tel:+56986481271">+56 9 8648 1271</a></p>
+                <p>Fijo: <a href="tel:0228810571">02 28810571</a></p>
+                <p>Email: <a href="mailto:contacto@climatizacioncoolbreak.cl">contacto@climatizacioncoolbreak.cl</a></p>
+                <p>Dirección: Bellavista #368, Providencia</p>
             </div>
             <div class="col-md-6 col-md-offset-1">
                 <h4 class="heading-mini">Cotizar</h4>

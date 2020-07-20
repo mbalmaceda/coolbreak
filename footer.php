@@ -21,10 +21,10 @@
                     <div class="col-md-4 col-sm-12">
                         <div class="footer-col">
                             <h3>Contacto</h3>
-                            <p><i class="ion-iphone"></i><a href="tel:+56954878117"> +56 9 99752368</a></p>
-                                <p><i class="ion-iphone"></i><a href="tel:+56965030568"> +56 9 86481271</a></p>
-                                <p><i class="ion-email"></i> <a href="mailto:contacto@climatizacioncoolbreak.cl">contacto@climatizacioncoolbreak.cl</a></p>
-                                <p><i class="ion-home"></i> Pasaje Milonga #1819, Maipú</p>
+                            <p><i class="ion-iphone"></i><a href="tel:+56954878117"> +56 9 9975 2368</a></p>
+                                <p><i class="ion-iphone"></i><a href="tel:+56965030568"> +56 9 8648 1271</a></p>
+                                <p><i class="ion-home"></i> Bellavista #368, Providencia</p>
+                                <p><i class="ion-social-instagram"></i> <a href="https://www.instagram.com/coolbreakclimatizacionltda/" target="_blank">Instagram</a></p>
                         </div>
                     </div><!--get in touch col end-->
                 </div><!--footer main row end-->  
